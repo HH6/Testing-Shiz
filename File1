@@ -1,4 +1,10 @@
 Void MyFunction1()
 {
   //Sup Lachie;
+  SeeBranch();
+}
+
+void SeeBranch ()
+{
+  debug.Log("Go to 'Graphs' then click on different sub-tabs");
 }
