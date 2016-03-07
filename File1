@@ -2,8 +2,8 @@ Void MyFunction1()
 {
   //Sup Lachie;
   //Time For Some Changes
-  public void DestroyAll()
-  {
-    Debug.Log("You Have Been Destroyed");
-  }
+}
+public void DestroyAll()
+{
+  Debug.Log("You Have Been Destroyed");
 }
